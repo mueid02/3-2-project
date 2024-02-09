@@ -1,0 +1,10 @@
+The 'finalproject' folder contains source code for the website with functionality implemendted using PHP and a MySQL database. Please, make sure you have XAMPP installed on your computer.
+To run this website in your computer, you will need to, 
+ - create a database and import the database project.sql file
+ - change the database credentials inside the connect.php with your own database credentials.
+ - and if needed, then you have to modify the BASE_URL variable inside the path.php.
+
+If you want to login as the admin, use the Username and the password given below:
+Username: Mueid
+Password: mueid123
+after logging in, you will act as the admin. You can add, delete or edit the informations.
